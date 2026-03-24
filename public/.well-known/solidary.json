@@ -1,0 +1,10 @@
+{
+  "protocol_version": "1.0",
+  "type": "site",
+  "site_id": "b884b98c-40a9-4892-ba21-67bbc58efaa7",
+  "site_url": "https://jazbogross.github.io/new-astro-site",
+  "title": "New Astro Site",
+  "site_image": "https://jazbogross.github.io/new-astro-site/solidary-media/images/site-image.jpg",
+  "site_image_thumb": "https://jazbogross.github.io/new-astro-site/solidary-media/images/site-image_thumb.jpg",
+  "description": "Describe your site in a sentence or two."
+}
